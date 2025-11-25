@@ -48,7 +48,8 @@ Direct connection: CIRCUIT DIAGRAM:
 
 Tabulation:1
 
-![WhatsApp Image 2025-11-25 at 21 46 03_0d9e2ffb](https://github.com/user-attachments/assets/9ea16cb5-4255-4160-9c85-2e86a9e5b3d2)
+![WhatsApp Image 2025-11-25 at 21 46 03_42c06e44](https://github.com/user-attachments/assets/b2c753f9-e672-4ed6-93fc-49c7dece53de)
+
 
 	
 Cross connection: CIRCUIT DIAGRAM:
@@ -60,8 +61,9 @@ Cross connection: CIRCUIT DIAGRAM:
 
 
 Tabulation:2
+![WhatsApp Image 2025-11-25 at 21 46 03_0d9e2ffb](https://github.com/user-attachments/assets/7f921cb0-e37d-4f27-81ae-c9d58a8b948d)
 
-![WhatsApp Image 2025-11-25 at 21 46 03_42c06e44](https://github.com/user-attachments/assets/5d1a89af-fa3c-4022-9974-ed727b58978c)
+
 
 
 RESULT:
